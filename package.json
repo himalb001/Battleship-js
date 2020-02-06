@@ -1,0 +1,17 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "Javascript based battleship game",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Himal Bhattarai",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^7.0.0"
+  }
+}
